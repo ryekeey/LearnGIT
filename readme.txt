@@ -10,3 +10,5 @@ test the remote repository.
 test the middle conflict.
 
 stash 2.
+
+1
