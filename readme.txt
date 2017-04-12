@@ -7,4 +7,4 @@ It's a useful work tool.
 
 test the remote repository.
 
-test the branch.
+test the master conflict.
